@@ -9,3 +9,6 @@ function About() {
     </div>
   );
 }
+
+export default About;
+export const image = "https://i.imgur.com/mV8PQxj.gif";
